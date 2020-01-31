@@ -1,2 +1,3 @@
 # Classic-Website
-Backup of our website made by Classic Google Sites.
+Backup of VIA Next Innovators website made by Classic Google Sites.
+DK has contributed as its manager.
